@@ -1,0 +1,1 @@
+# law-of-return-scale-types
